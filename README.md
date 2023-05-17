@@ -19,4 +19,4 @@ To see the boAt Lifestyle logo in action, follow these steps:
 Feel free to explore and learn from the code provided in this repository. You can also modify and customize the logo design or use it as a reference for creating your own logos.
 
 ## Disclaimer
-Please note that this logo is not an official representation of the boAt Lifestyle brand. It has been created solely for educational purposes to showcase HTML and CSS skills. Any resemblance to the official logo is purely coincidental.
+Please note that this logo is not an official representation of the boAt Lifestyle brand. It has been created solely for educational purposes to showcase HTML and CSS skills.
