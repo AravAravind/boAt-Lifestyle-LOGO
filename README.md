@@ -7,7 +7,7 @@ This repository contains an implementation of the boAt Lifestyle logo using HTML
 - CSS
 
 ## Logo Description
-The boAt Lifestyle logo is a visual representation of the brand. It consists of a stylized boat shape with the brand name written beneath it.
+The boAt Lifestyle logo is a visual representation of the brand. It consists of a stylized boat shape logo.
 
 ## Preview
 To see the boAt Lifestyle logo in action, follow these steps:
