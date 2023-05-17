@@ -1,0 +1,36 @@
+/* CSS Styles for Boat Shape */
+
+/* Container to center the boat */
+.container {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  height: 100vh;
+  background-color: black;
+}
+
+/* Boat shape */
+.boat {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* Align to the left */
+}
+
+/* Boat top triangle */
+.boat-top {
+  border-bottom: 190px solid red;
+  border-left: 100px solid transparent;
+  border-right: 10px solid transparent;
+  width: 0;
+  height: 0;
+  transform: rotate(340deg) translateX(70px) translateY(-0px); /* Move left and lift up */
+}
+
+/* Boat bottom triangle */
+.boat-bottom {
+  border-top: 70px solid red;
+  border-left: 80px solid transparent;
+  border-right: 80px solid transparent;
+  width: 150px;
+  height: 0;
+}
